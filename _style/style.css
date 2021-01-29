@@ -5,9 +5,16 @@
 }
 
 body {
-    background-color: aliceblue;
+    background-color:white;
 }
 
 h1 {
-    color: blue;
+    color: #000000;
+}
+
+.box {
+    width: 90%;
+    box-shadow: 2px 2px 5px #000000;
+    background-color: #cccccc;
+    margin: 0 auto;
 }
